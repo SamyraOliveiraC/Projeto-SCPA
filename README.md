@@ -22,6 +22,7 @@ Validação para os DTOS (objetivo de transferência de dados)
 
 ### Banco de Dados:
 Spring Data JPA para a persistência com hibernates
+
 MySQL Driver - Conexão com o MySQL
 
 ### Mensagem:
@@ -29,6 +30,7 @@ Spring for apache Kafka para que a mensagem seja tratada de forma unica
 
 ### Testes:
 Spring Boot Starter test e tipo um pacote para juntar as ferramentas essenciais para criar testes
+
 Spring Boot Actuator para monitorar e gerenciar as aplicações.
 
 *A meta e subir a aplicação, conectar mysql, precisaremos de um endpoint para que execute uma ação programada, e colocar um agendador( para as partes programadas que exige um intervalo para executar).
