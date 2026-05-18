@@ -7,24 +7,24 @@ Hello World!! Este repositório compara um exemplo simples de Hello World em: Ja
 
 ---
 
-*Ambos em Java/Kotlin são semelhantes, com isso tive a conclusão de:
+### Ambos em Java/Kotlin são semelhantes, com isso tive a conclusão de:
 
-*Site: https://start.spring.io/
+### Site: https://start.spring.io/
 
-*Essencial: 
+### Essencial: 
 String web para criação de API
 Spring Boot Devtools para a recarga automática durante o desenvolvimento
 Lombok que reduz código repetitivo 
 Validação para os DTOS (objetivo de transferência de dados)
 
-*Banco de Dados:
+### Banco de Dados:
 Spring Data JPA para a persistência com hibernates
 MySQL Driver - Conexão com o MySQL
 
-*Mensagem:
+### Mensagem:
 Spring for apache Kafka para que a mensagem seja tratada de forma unica
 
-*Testes:
+### Testes:
 Spring Boot Starter test e tipo um pacote para juntar as ferramentas essenciais para criar testes
 Spring Boot Actuator para monitorar e gerenciar as aplicações.
 
