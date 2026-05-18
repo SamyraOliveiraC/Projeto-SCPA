@@ -13,8 +13,11 @@ Hello World!! Este repositório compara um exemplo simples de Hello World em: Ja
 
 ### Essencial: 
 String web para criação de API
+
 Spring Boot Devtools para a recarga automática durante o desenvolvimento
+
 Lombok que reduz código repetitivo 
+
 Validação para os DTOS (objetivo de transferência de dados)
 
 ### Banco de Dados:
